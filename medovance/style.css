@@ -176,7 +176,7 @@ body::before {
 .decor-highlight {
   position: absolute;
   right: 174px;
-  bottom: -6px;
+  bottom: 9px;
   width: 116px;
   opacity: 0;
   animation: fadeArrowIn 1s ease-out 1.2s forwards; /* <-- delay */
